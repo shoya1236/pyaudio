@@ -24,6 +24,7 @@
  * SOFTWARE.
  */
 
+#define PY_SSIZE_T_CLEAN
 #include <stdio.h>
 #include "Python.h"
 #include "portaudio.h"
